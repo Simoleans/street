@@ -1,0 +1,98 @@
+/*! Paste your custom styles here */
+.alert {
+  position: relative;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem; }
+
+.alert-heading {
+  color: inherit; }
+
+.alert-link {
+  font-weight: 700; }
+
+.alert-dismissible {
+  padding-right: 4rem; }
+  .alert-dismissible .close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.75rem 1.25rem;
+    color: inherit; }
+
+.alert-primary {
+  color: #005253;
+  background-color: #ccebec;
+  border-color: #b8e4e4; }
+  .alert-primary hr {
+    border-top-color: #a6dddd; }
+  .alert-primary .alert-link {
+    color: #002020; }
+
+.alert-secondary {
+  color: #464a4e;
+  background-color: #e7e8ea;
+  border-color: #dddfe2; }
+  .alert-secondary hr {
+    border-top-color: #cfd2d6; }
+  .alert-secondary .alert-link {
+    color: #2e3133; }
+
+.alert-success {
+  color: #066542;
+  background-color: #cef3e5;
+  border-color: #bbeedb; }
+  .alert-success hr {
+    border-top-color: #a7e9d0; }
+  .alert-success .alert-link {
+    color: #033523; }
+
+.alert-info {
+  color: #0f6270;
+  background-color: #d2f2f7;
+  border-color: #bfecf4; }
+  .alert-info hr {
+    border-top-color: #a9e6f0; }
+  .alert-info .alert-link {
+    color: #093b43; }
+
+.alert-warning {
+  color: #854932;
+  background-color: #ffe8df;
+  border-color: #ffdfd2; }
+  .alert-warning hr {
+    border-top-color: #ffcdb9; }
+  .alert-warning .alert-link {
+    color: #603524; }
+
+.alert-danger {
+  color: #852e38;
+  background-color: #ffdee1;
+  border-color: #ffd0d6; }
+  .alert-danger hr {
+    border-top-color: #ffb7c0; }
+  .alert-danger .alert-link {
+    color: #5f2128; }
+
+.alert-light {
+  color: #818182;
+  background-color: #fefefe;
+  border-color: #fdfdfe; }
+  .alert-light hr {
+    border-top-color: #ececf6; }
+  .alert-light .alert-link {
+    color: #686868; }
+
+.alert-dark {
+  color: #1b1e21;
+  background-color: #d6d8d9;
+  border-color: #c6c8ca; }
+  .alert-dark hr {
+    border-top-color: #b9bbbe; }
+  .alert-dark .alert-link {
+    color: #040505; }
+
+
+
+    
